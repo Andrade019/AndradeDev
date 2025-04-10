@@ -325,7 +325,7 @@ ol {
 }
 
 .hero__item {
-    height: 945px;
+    height: 860px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -335,7 +335,7 @@ ol {
 }
 
 .hero__item .hero__text {
-    padding-top: 1px;
+    padding-bottom: 40px;
 }
 
 .hero__item .hero__text h5 {
